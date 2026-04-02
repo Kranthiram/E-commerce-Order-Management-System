@@ -8,7 +8,7 @@ users, and orders in an e-commerce platform.
 | Technology | Purpose |
 |---|---|
 | Java 17 | Core language |
-| Spring Boot 4.2 | Application framework |
+| Spring Boot 3.2 | Application framework |
 | Hibernate ORM | Object-relational mapping |
 | Spring Data JPA | Repository layer |
 | MySQL | Database |
